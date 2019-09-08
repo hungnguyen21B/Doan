@@ -60,7 +60,8 @@ section:after {
 }
 
 .caption p.caption-text {
-	  text-align: left;
+	
+       text-align:  center;
        padding: 0px;
        font-family: Arial, Sans-Serif;
        font-size: 13px;
