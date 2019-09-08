@@ -22,10 +22,10 @@ a{
 	text-decoration: none;
 }
 a:visited{
-    color: pink;
+    color: red;
 }
 a:hover{
-    color: red;
+    color: pink;
 }
 header {
   padding: 30px;  
